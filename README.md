@@ -20,6 +20,8 @@
 <https://bot.jaicp.com/chatapi/webhook/marusia/bMxWFnsf:c5337653e84bd65105f715e171ab6c7aa19d2e2a@a48720d3-312e-467d-a307-bdd48f998277>
 
 
+Навык в конструкторе https://app.aimylogic.com/scenario/tuklya-1000034410-iLh?hash=1654423918778
+
 ## Конфиги
 
 ### Настройки навыка
